@@ -6,5 +6,5 @@ int main()
 {
 
 cout << "Hello how are you?";
-
+cout << "Hello, good";
 }
